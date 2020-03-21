@@ -1,1 +1,4 @@
 # Medical Care - Autism Specturm Disorder
+
+
+Autism, or autism spectrum disorder (ASD), refers to a broad range of conditions characterized by challenges with social skills, repetitive behaviors, speech and nonverbal communication. Autism affects every 1 in every 40 children in the world. Autism is a disease which cannot be cured but if identified early, effective measures can be taken to reduce the adverse effects of it. This is often difficult to analyze since they lack communication skills. We, therefore, create a calm environment to trigger joint attention that is helping them share their interests and regulate them and their behavior while the parent can access information to understand his/her child better. Our web application has virtual reality scenarios of real life situations so as to help children and adults overcome their fear for that situation when it comes to real life.
