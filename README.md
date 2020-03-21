@@ -1,4 +1,4 @@
-# Medical Care - Autism Specturm Disorder
+# Health Care - Autism Specturm Disorder
 
 Problem ---  How might we test the state of autism in a child/adult & tackle it through a therapy.
 
