@@ -30,7 +30,7 @@ Thses things sound good when we hear, but do they actually work? Hence we resear
     It suely will improve people's life. Cause we are providing something that many autistic people would love to use and there is 
     nothing of this sort in market.
     
-4)Is there a future plan of extension?
+4) Is there a future plan of extension?
   Yes, we plan to make this hackathon project in a complete product and take it to the real world. Cause there is a lot of scope for 
   applications like this. We can talk to psychiatrist's and other special education centres and provide them with this solution to help 
   children annd adults out there to overcome their fears.
@@ -43,3 +43,22 @@ Thses things sound good when we hear, but do they actually work? Hence we resear
    We used a kaggle autsim dataset which is built by few of the best autistic doctors in the world and then we used unity3d, google vr 
    sdk,mirror networking (for parent view), Telelpathy Lib and photoshop.
  ---------------------------------------------------------------------------------------------------------------------------------------
+
+   Scalability---
+   
+a) 1 in 500 or 0.20% or more than 2,160,000 people in India. Incidence Rate: Approx. 1 in 90,666 or 11,914 people in India. Incidence extrapolations for India for Autism: 11,914 per year, 250 per month, 57 per week, 8 per day, 1.4 per hour.
+(https://harkla.co/blogs/special-needs/autism-statistics)
+
+b)In 2018 the CDC reported that 1 in 40 children have been identified with ASD, this number is increasing at a rate of 15% every year.
+(http://www.rehabcouncil.nic.in/writereaddata/autism.pdf)
+
+c)The Global autistic spectrum disorder therapeutics market size was valued at  US $ 3293.0 Million in 2018 and is projected to reach US $ 4612.1. Million by 2026.
+(https://www.fortunebusinessinsights.com/industry-reports/autism-spectrum-disorder-therapeutics-market-101207)
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+For more information you can go through our slides.
+
+
+ 
+
