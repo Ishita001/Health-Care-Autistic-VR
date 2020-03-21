@@ -6,11 +6,12 @@ Autism----
 
 Autism, or autism spectrum disorder (ASD), refers to a broad range of conditions characterized by challenges with social skills, repetitive behaviors, speech and nonverbal communication. Autism affects every 1 in every 40 children in the world. Autism is a disease which cannot be cured but if identified early, effective measures can be taken to reduce the adverse effects of it. This is often difficult to analyze since they lack communication skills. We, therefore, create a calm environment to trigger joint attention that is helping them share their interests and regulate them and their behavior while the parent can access information to understand his/her child better. Our web application has virtual reality scenarios of real life situations so as to help children and adults overcome their fear for that situation when it comes to real life.
 
-solution--- An AI-VR based application to help people with autism improve communication, social and other basic abilities required to live in a society.
+solution--- [Autistic VR] An AI-VR based application to help people with autism improve communication, social and other basic abilities required to live in a society.
 
 We aim to help these children by training their brains and letting them control their world and feel less anxious and more confident and also help their parents understand and monitor them. We understand and identify a child’s strengths and weaknesses. This is often difficult to analyze since they lack communication skills.
 
 What our project does is, it gives a set of YES/NO questions that are to be answered by either the parent of the child or the adult suffering from Autism and then we match those answers with the dataset which then return the level of autism that the child/dult is suffering from.Depending on this level we can either increase or decrease the extremecy of our VR therapy and give personal care if required. Now when the child is going through the VR session even the parent can view what their child/ adult is doing inside the virtual environment using the parent app from anywhere and advice their ward providing extra support to the autistic candidate.
+Also the parents can buy new set of challlenges on the app and make paymwnts through crypto.
 
 Thses things sound good when we hear, but do they actually work? Hence we researched about whether VR can actually bring change in how they behave in their real-live after VR therapies and hence we bulit our models on top of them, their references can be found at the links below:
 1. (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111797/)
@@ -26,7 +27,7 @@ Thses things sound good when we hear, but do they actually work? Hence we resear
    these days and may be in the next 2-3 years every household might have a VR headset and so it is quite feasible.
    
 3) Will the solution improve people's lives?
-    It suely will improve people's life. Cause we are providing something that many autistic people would love to use and there is 
+    It suely will improve people's life. Cause we are providing something that many autistic people would love to use and there is  
     nothing of this sort in market.
     
 4) Is there a future plan of extension?
@@ -41,7 +42,7 @@ Thses things sound good when we hear, but do they actually work? Hence we resear
    
 6) Technologies?
    We used a kaggle autsim dataset which is built by few of the best autistic doctors in the world and then we used unity3d, google vr 
-   sdk,mirror networking (for parent view), Telelpathy Lib and photoshop.
+   sdk,mirror networking (for parent view), Telelpathy Lib and photoshop, matic.
  ---------------------------------------------------------------------------------------------------------------------------------------
 
    Scalability---
