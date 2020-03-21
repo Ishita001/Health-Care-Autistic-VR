@@ -32,7 +32,8 @@ Thses things sound good when we hear, but do they actually work? Hence we resear
 4) Is there a future plan of extension?
   Yes, we plan to make this hackathon project in a complete product and take it to the real world. Cause there is a lot of scope for 
   applications like this. We can talk to psychiatrist's and other special education centres and provide them with this solution to help 
-  children annd adults out there to overcome their fears.
+  children annd adults out there to overcome their fears, also release personalized mobile versions where in a parent can choose 
+  different scenarios for his child and pay through crypto (matic network currently)
   
 5) Does the soulution address the challenge put forth by the team?
    We believe it does, because our approcah is to determine the level of autism which our AI model is doing and then helping people 
