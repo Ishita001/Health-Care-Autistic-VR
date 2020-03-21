@@ -16,3 +16,15 @@ df1 = pd.read_csv('C:/Users/Lenovo/Downloads/Autism_Data (3).arff')
 df2 = pd.read_csv('C:/Users/Lenovo/Downloads/autism-screening-for-toddlers/Toddler Autism dataset July 2018.csv')
 
 # Any results you write to the current directory are saved as output.
+
+
+df1.head() #data of autism in kids
+df2.head() #data of autism in adults
+
+
+#To know how many Toddlers and adults are affected in general
+sns.set_style('whitegrid')
+data1= df1[df1['Class/ASD']=='YES']
+data2= df2[df2['Class/ASD Traits ']=='Yes']
+print("Adults: ",len(data1)/len(df1) * 100)
+print("Toddlers:",len(data2)/len(df2) * 100)
