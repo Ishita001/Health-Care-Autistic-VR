@@ -17,3 +17,29 @@ Thses things sound good when we hear, but do they actually work? Hence we resear
 1. (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111797/)
 2. (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4143832/)
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+1) Does the entry clearly establish a challenge faced by community?
+   Now Every year only in india there are nearly 12000 new autism cases recorded and many more might be present which are not counted.
+   On average in USA around $60000(42 lakhs INR)  and in India 4Lakhs is spent on autism treatment but these cant make the child ready      enough to face reallife situations which our VR application does.
+   
+2) How major is the problem and how practical is the solution?
+   With such a huge number of cases, life of each and every one of them while growing is actuall tough. VR is becoming a household name 
+   these days and may be in the next 2-3 years every household might have a VR headset and so it is quite feasible.
+   
+3) Will the solution improve people's lives?
+    It suely will improve people's life. Cause we are providing something that many autistic people would love to use and there is 
+    nothing of this sort in market.
+    
+4)Is there a future plan of extension?
+  Yes, we plan to make this hackathon project in a complete product and take it to the real world. Cause there is a lot of scope for 
+  applications like this. We can talk to psychiatrist's and other special education centres and provide them with this solution to help 
+  children annd adults out there to overcome their fears.
+  
+5) Does the soulution address the challenge put forth by the team?
+   We believe it does, because our approcah is to determine the level of autism which our AI model is doing and then helping people 
+   overcome their fesr which our VR application does.
+   
+6) Technologies?
+   We used a kaggle autsim dataset which is built by few of the best autistic doctors in the world and then we used unity3d, google vr 
+   sdk,mirror networking (for parent view), Telelpathy Lib and photoshop.
+ ---------------------------------------------------------------------------------------------------------------------------------------
