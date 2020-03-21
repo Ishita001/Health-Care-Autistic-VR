@@ -28,3 +28,27 @@ data1= df1[df1['Class/ASD']=='YES']
 data2= df2[df2['Class/ASD Traits ']=='Yes']
 print("Adults: ",len(data1)/len(df1) * 100)
 print("Toddlers:",len(data2)/len(df2) * 100)
+
+
+
+#Let's visualize the jaundice born child based on gender
+fig, ax = plt.subplots(1,2,figsize=(20,6))
+sns.countplot(x='jundice',data=data1,hue='gender',ax=ax[0])
+ax[0].set_title('ASD positive Adults born with jaundice based on gender')
+ax[0].set_xlabel('Jaundice while birth')
+sns.countplot(x='Jaundice',data=data2,hue='Sex',ax=ax[1])
+ax[1].set_title('ASD positive Toddlers born with jaundice based on gender')
+ax[1].set_xlabel('Jaundice while birth')
+
+#Let's see the sex distribution of ASD positive
+sns.countplot(x = 'Qchat-10-Score', hue = 'Sex', data = asd)
+
+
+#Let's see the age distribution of ASD positive
+fig, ax = plt.subplots(1,2,figsize=(20,6))
+sns.distplot(data1['age'],kde=False,bins=45,color='darked',ax=ax[0])
+ax[0].set_xlabel('Adult age in years')
+ax[0].set_title('Age distribution of ASD positive')
+sns.Distplot(data2['Age_Mons'],kde=False,bins=30,color='darkred',ax=ax[1])
+ax[1].set_xlabel('Toddlers age in months')
+ax[1].set_title('Age distribution of ASD positive')
