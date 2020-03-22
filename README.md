@@ -24,24 +24,29 @@ These things sound good when we hear, but do they actually work? Hence we resear
    On average in USA around $60000(42 lakhs INR)  and in India 4Lakhs is spent on autism treatment but these cant make the child ready      enough to face reallife situations which our VR application does.
    
 2) How major is the problem and how practical is the solution?
+
    With such a huge number of cases, life of each and every one of them while growing is actuall tough. VR is becoming a household name 
    these days and may be in the next 2-3 years every household might have a VR headset and so it is quite feasible.
    
 3) Will the solution improve people's lives?
+
     It suely will improve people's life. Cause we are providing something that many autistic people would love to use and there is  
     nothing of this sort in market.
     
 4) Is there a future plan of extension?
-  Yes, we plan to make this hackathon project in a complete product and take it to the real world. Cause there is a lot of scope for 
-  applications like this. We can talk to psychiatrist's and other special education centres and provide them with this solution to help 
-  children annd adults out there to overcome their fears, also release personalized mobile versions where in a parent can choose 
-  different scenarios for his child and pay through crypto (matic network currently)
+
+   Yes, we plan to make this hackathon project in a complete product and take it to the real world. Cause there is a lot of scope for 
+   applications like this. We can talk to psychiatrist's and other special education centres and provide them with this solution to help 
+   children annd adults out there to overcome their fears, also release a cmplete personalized mobile version where in a parent can also    choose  different scenarios for his child and pay through crypto.
+ 
   
 5) Does the soulution address the challenge put forth by the team?
+
    We believe it does, because our approcah is to determine the level of autism which our AI model is doing and then helping people 
    overcome their fesr which our VR application does.
    
 6) Technologies?
+
    We used a kaggle autsim dataset which is built by few of the best autistic doctors in the world and then we used unity3d, google vr 
    sdk,mirror networking (for parent view), Telelpathy Lib and photoshop, matic.
  ---------------------------------------------------------------------------------------------------------------------------------------
