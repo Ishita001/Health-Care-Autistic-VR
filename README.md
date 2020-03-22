@@ -13,7 +13,7 @@ We aim to help these children by training their brains and letting them control 
 What our project does is, it gives a set of YES/NO questions that are to be answered by either the parent of the child or the adult suffering from Autism and then we match those answers with the dataset which then returns the level of autism that the child/adult is suffering from. Depending on this level the candidate can choose the level of  extremecy of  VR therapy. Now when the child is going through the VR session even the parent can view what their child/ adult is doing inside the virtual environment using the parent app from anywhere and advice their ward providing extra support to the autistic candidate.
 
 
-Thses things sound good when we hear, but do they actually work? Hence we researched about whether VR can actually bring change in how they behave in their real-live after VR therapies and hence we bulit our models on top of them, their references can be found at the links below:
+These things sound good when we hear, but do they actually work? Hence we researched about whether VR can actually bring change in how they behave in their real-live after VR therapies and hence we bulit our models on top of them, their references can be found at the links below:
 1. (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111797/)
 2. (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4143832/)
 ----------------------------------------------------------------------------------------------------------------------------------------
