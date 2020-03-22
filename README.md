@@ -19,6 +19,7 @@ These things sound good when we hear, but do they actually work? Hence we resear
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 1) Does the entry clearly establish a challenge faced by community?
+   
    Now Every year only in india there are nearly 12000 new autism cases recorded and many more might be present which are not counted.
    On average in USA around $60000(42 lakhs INR)  and in India 4Lakhs is spent on autism treatment but these cant make the child ready      enough to face reallife situations which our VR application does.
    
